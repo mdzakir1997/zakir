@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<conio.h>
 void main()
 {
 int a;
@@ -17,5 +16,4 @@ else
 {
 printf("\nZero");
 }
-getch();
 }
