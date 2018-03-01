@@ -6,7 +6,7 @@ void main()
     clrscr();
     printf("Enter two numbers\n");
     scanf("%d%d",&a,&b);
-    printf("\nEnter the iterative\n");
+    printf("enter n value\n");
     scanf("%d",&n);
     for(i=0;i<n;i++)
     {
